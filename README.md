@@ -73,7 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- The dataset was obtained from [source].
+- The dataset was obtained from Kaggle.
 - Inspiration from various machine learning and Flask tutorials.
 
 ---
